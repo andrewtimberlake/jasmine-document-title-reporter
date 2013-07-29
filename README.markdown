@@ -15,4 +15,6 @@ Download jasmine_title_reporter.js and the 2 .ico files and place them in 'helpe
 
 Or if you wish to use another path such as 'spec/javascripts/helpers/', you can set it with the following meta tag before loading and executing 'jasmine_title_reporter.js':
 
+```html
 <meta name="iconsReporterPath" content="spec/javascripts/helpers/" />
+```
